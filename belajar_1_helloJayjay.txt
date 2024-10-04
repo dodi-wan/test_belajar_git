@@ -1,0 +1,5 @@
+hello jayjay
+    "ini belajar git"
+
+
+    "belajar berikutnya"
